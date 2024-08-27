@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alineborges2006
-- 👀 I’m interested in html, css, javascript, bootstrap, sql, angular, sharepoint
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in azure devops boards, sharepoint
+- 🌱 I’m currently learning devops and agility
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
